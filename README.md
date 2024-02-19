@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Java<br>🎯 Goals: To Secure a challenging position in a reputable organization to expand my learnings,knowledge,and skills<br>🎲 Hobbies:Watching movies ,playing Cricket,Cooking</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Java<br>🎯 Goals: To Secure a challenging position in a reputable organization to expand my learnings,knowledge,and skills<br>🎲 Hobbies: Watching movies ,playing Cricket,Cooking</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
