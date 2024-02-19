@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*bKpITDtU0AxQkpTu.png" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://blog-media.byjusfutureschool.com/bfs-blog/2021/09/17203233/What-is-HTML-Article-Page-948_500.png" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
