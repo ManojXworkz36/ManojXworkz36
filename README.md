@@ -27,6 +27,9 @@
   <img width="12" />
   <img src="https://logowik.com/content/uploads/images/jetbrains-intellij-idea6941.jpg" height="40" alt="intelliJ IDEA logo"  />
   <img width="12" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/120px-Visual_Studio_Code_1.35_icon.svg.png" height="40" alt="visual studiologo"  />
+  <img width="12" />
+  
   
 </div>
 
