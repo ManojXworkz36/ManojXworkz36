@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gcreddy.com%2F2022%2F03%2Fintroduction-to-java-programming.html&psig=AOvVaw0k49fYzxrI0hTcRKgvs9Jy&ust=1708421129665000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODQv6CLt4QDFQAAAAAdAAAAABAJ" height="40" alt="javascript logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*bKpITDtU0AxQkpTu.png" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
